@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**iamakashjha/iamakashjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! This is Akash Jha
 
-Here are some ideas to get you started:
+You are welcome to my GitHub profile. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am incredibly passionate about Data Science, as it allows me to uncover hidden insights, solve complex problems, and make data-driven decisions that can shape a better future. I come from Gwalior, MP where I'm pursuing my Master’s in Computer Application from Maharana Pratap College of Technology and Currently looking for job opportunity in Data Science domain So i can leverage and implement my knowledge and skills.
+
+
+
+
+## Technical Skills
+#### Programming Languages: Python, R, SQL
+#### Libraries: NumPy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, Scipy, Tensorflow
+#### Databases: MySQL, DBeaver
+#### Cloud: AWS
+#### BI Tools: Tableau, PowerBI
+#### Restful API's: Flask
+
+
+
+
+## Let's connect:
+LinkedIn - https://www.linkedin.com/in/iamakashjha/
