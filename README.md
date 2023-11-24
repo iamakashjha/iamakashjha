@@ -14,7 +14,7 @@ I am incredibly passionate about Data Science, as it allows me to uncover hidden
 #### Databases: MySQL, DBeaver
 #### Cloud: AWS
 #### BI Tools: Tableau, PowerBI
-#### Restful APIs: Flask
+#### APIs: Gradio, Flask
 
 
 
