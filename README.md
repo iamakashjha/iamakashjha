@@ -1,5 +1,5 @@
 
-# Hi! This is Akash Jha
+# Hi there! This is Akash Jha
 
 You are welcome to my GitHub profile. 
 
@@ -21,3 +21,4 @@ I am incredibly passionate about Data Science, as it allows me to uncover hidden
 
 ## Let's connect:
 LinkedIn - https://www.linkedin.com/in/iamakashjha/
+Email: Akash.jha90390@gmail.com
