@@ -11,7 +11,7 @@ I am incredibly passionate about Data Science, as it allows me to uncover hidden
 ## Technical Skills
 #### Programming Languages: Python, R, SQL
 #### Libraries: NumPy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, Scipy, Tensorflow
-#### Databases: MySQL, DBeaver
+#### Databases: MySQL, SQL Server
 #### Cloud: AWS
 #### BI Tools: Tableau, PowerBI
 #### APIs: Gradio, Flask
