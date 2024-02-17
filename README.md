@@ -20,5 +20,5 @@ I am incredibly passionate about Data Science, as it allows me to uncover hidden
 
 
 ## Let's connect:
-LinkedIn - https://www.linkedin.com/in/iamakashjha/
+LinkedIn - https://www.linkedin.com/in/akash-jha-a1b1302b4/
 Email: Akash.jha90390@gmail.com
