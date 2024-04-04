@@ -3,18 +3,43 @@
 
 You are welcome to my GitHub profile. 
 
-I am incredibly passionate about Data Science, as it allows me to uncover hidden insights, solve complex problems, and make data-driven decisions that can shape a better future. I come from Gwalior, MP where I'm pursuing my Master’s in Computer Application (MCA) from Maharana Pratap College of Technology and Currently looking for a job opportunity in the Data Science domain where I can leverage and implement my knowledge and skills.
+I'm an aspiring data science professional dedicated to leveraging data to drive business decisions and solve complex problems. With hands-on experience across various data-driven projects, I specialize in everything from data cleaning and preprocessing to building predictive models and conducting exploratory data analysis. I've completed a Master of Computer Application (MCA) from RGPV University Bhopal and I am currently pursuing a Post Graduate Diploma in Data Science from the International Institute of Data Science and Technology. 
 
 
 
-## Technical Skills
-#### Programming Languages: Python, R, SQL
-#### Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Sci-kit Learn, Scipy, Tensorflow
-#### Databases: MySQL, SQL Server
-#### Cloud: AWS
-#### BI Tools: Tableau, PowerBI, Advance Excel.
-#### APIs: Sreamlit, Gradio, Flask.
-#### Machine Learning: Supervised and Unsupervised Learning.
+#### SKILLS & COMPETENCIES
+•	Database querying
+•	Data collection 
+•	Data cleaning and Preprocessing
+•	Statistical analysis
+•	Data visualization
+•	Descriptive Statistics
+•	Inferential Statistics
+•	Data Science Life Cycle
+•	Neural Networks
+•	OOPs
+•	MLOps
+•	Data Structures & Algorithms (DSA)
+•	Artificial Intelligence (AI)
+•	Machine Learning (ML)
+•	Generative AI
+•	Deep Learning
+•	Natural Language Processing (NLP)
+•	Trend and pattern identification
+•	Predictive modeling
+•	Model Deployment 
+•	Time management and prioritization 
+ 
+
+
+#### Technology Stack:
+##### Programming Language: Python, R, SQL 
+##### BI Tools: Power BI, Tableau, MS Excel, Google Sheet
+##### DBMS: MySQL, SQL Server
+##### Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Streamlit, Gradio, Solara.
+##### Tools: Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio etc. 
+##### AI/ML: Supervised Learning and Unsupervised Learning.
+##### Cloud: AWS
 
 
 
