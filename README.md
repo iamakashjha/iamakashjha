@@ -7,18 +7,18 @@ I am incredibly passionate about Data Science, as it allows me to uncover hidden
 
 
 
-
 ## Technical Skills
 #### Programming Languages: Python, R, SQL
-#### Libraries: NumPy, Pandas, Matplotlib, Seaborn, Sci-kit Learn, Scipy, Tensorflow
+#### Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Sci-kit Learn, Scipy, Tensorflow
 #### Databases: MySQL, SQL Server
 #### Cloud: AWS
-#### BI Tools: Tableau, PowerBI
-#### APIs: Gradio, Flask
+#### BI Tools: Tableau, PowerBI, Advance Excel.
+#### APIs: Sreamlit, Gradio, Flask.
+#### Machine Learning: Supervised and Unsupervised Learning.
 
 
 
 
 ## Let's connect:
-LinkedIn - https://www.linkedin.com/in/akash-jha-a1b1302b4/
+LinkedIn - https://www.linkedin.com/in/iamakashjha/
 Email: Akash.jha90390@gmail.com
