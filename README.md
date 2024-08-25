@@ -3,7 +3,7 @@
 
 You are welcome to my GitHub profile. 
 
-I'm an aspiring data science professional dedicated to leveraging data to drive business decisions and solve complex problems. With hands-on experience across various data-driven projects, I specialize in everything from data cleaning and preprocessing to building predictive models and conducting exploratory data analysis. I've completed a Master of Computer Application (MCA) from RGPV University Bhopal and I am currently pursuing a Post Graduate Diploma in Data Science from the International Institute of Data Science and Technology. 
+I'm an aspiring data science professional dedicated to leveraging data to drive business decisions and solve complex problems. With hands-on experience across various data-driven projects, I specialize in everything from data cleaning and preprocessing to building predictive models and conducting exploratory data analysis. I've completed a Master of Computer Application (MCA) from RGPV University Bhopal.
 
 
 
@@ -45,5 +45,5 @@ I'm an aspiring data science professional dedicated to leveraging data to drive 
 
 
 ## Let's connect:
-LinkedIn - https://www.linkedin.com/in/iamakashjha/
-Email: Akash.jha90390@gmail.com
+LinkedIn - https://www.linkedin.com/in/akashjha-datascientist/
+Email: iamakashjha@icloud.com
