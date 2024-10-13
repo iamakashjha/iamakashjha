@@ -38,9 +38,10 @@ I'm an aspiring data science professional dedicated to leveraging data to drive 
 ##### DBMS: MySQL, SQL Server
 ##### Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, statsmodel, Streamlit, Gradio.
 ##### Tools: Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Office, A/B Testing, etc. 
-##### AI/ML: Supervised Learning and Unsupervised Learning.
+##### AI/ML: Supervised Learning, Unsupervised Learning, Deep Learning, NLP.
+##### Mathematics: Linear Algebra, Calculus, Statistics, Probability.
 ##### Cloud: AWS
-#### Mathematics: Linear Algebra, Calculus, Statistics, Probability.
+
 
 
 
