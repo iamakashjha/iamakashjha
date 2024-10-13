@@ -36,14 +36,15 @@ I'm an aspiring data science professional dedicated to leveraging data to drive 
 ##### Programming Language: Python, R, SQL 
 ##### BI Tools: Power BI, Tableau, MS Excel, Google Sheet
 ##### DBMS: MySQL, SQL Server
-##### Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Streamlit, Gradio, Solara.
-##### Tools: Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio etc. 
+##### Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, statsmodel, Streamlit, Gradio.
+##### Tools: Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Office, A/B Testing, etc. 
 ##### AI/ML: Supervised Learning and Unsupervised Learning.
 ##### Cloud: AWS
+#### Mathematics: Linear Algebra, Calculus, Statistics, Probability.
 
 
 
 
 ## Let's connect:
-LinkedIn - https://www.linkedin.com/in/akashjha-datascientist/
+LinkedIn - https://www.linkedin.com/in/akash-jha-920480317/
 Email: iamakashjha@icloud.com
