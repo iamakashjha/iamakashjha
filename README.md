@@ -40,7 +40,7 @@ I'm an aspiring data science professional dedicated to leveraging data to drive 
 ##### Tools: Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Office, A/B Testing, etc. 
 ##### AI/ML: Supervised Learning, Unsupervised Learning, Deep Learning, NLP.
 ##### Mathematics: Linear Algebra, Calculus, Statistics, Probability.
-##### Cloud: AWS
+##### Cloud: AWS SageMaker, Azure Machine Learning Studio, GCP Vertex AI
 
 
 
