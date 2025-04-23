@@ -8,7 +8,7 @@ I am a Data Scientist and AI/ML Engineer, Pursuing an Advanced Certification in 
 
 
 #### SKILLS & COMPETENCIES
-•	Data cleaning and Preprocessing
+Data cleaning and Preprocessing
 •	Statistical analysis
 •	Data visualization
 •	Descriptive Statistics
