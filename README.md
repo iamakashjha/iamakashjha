@@ -3,13 +3,11 @@
 
 You are welcome to my GitHub profile. 
 
-I'm an aspiring data science professional dedicated to leveraging data to drive business decisions and solve complex problems. With hands-on experience across various data-driven projects, I specialize in everything from data cleaning and preprocessing to building predictive models and conducting exploratory data analysis. I've completed a Master of Computer Application (MCA) from RGPV University Bhopal.
+I am a Data Scientist and AI/ML Engineer, Pursuing an Advanced Certification in Data Science and AI from IIT-Guwahati. I am skilled in Machine Learning, Deep Learning, NLP, GenAI, LLMs, MLOps, Python, R, SQL, Power BI, Tableau, and Advanced Excel. I have worked on many projects with real-time data and have built End-to-End AI/ML applications from scratch to production.
 
 
 
 #### SKILLS & COMPETENCIES
-•	Database querying
-•	Data collection 
 •	Data cleaning and Preprocessing
 •	Statistical analysis
 •	Data visualization
@@ -28,7 +26,6 @@ I'm an aspiring data science professional dedicated to leveraging data to drive 
 •	Trend and pattern identification
 •	Predictive modeling
 •	Model Deployment 
-•	Time management and prioritization 
  
 
 
