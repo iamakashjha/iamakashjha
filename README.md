@@ -30,16 +30,16 @@ Data cleaning and Preprocessing
 
 
 #### TECHNOLOGY STACK:
-**Programming Language:** Python, R, SQL 
-**BI Tools:** Power BI, Tableau
-**Databases:** MySQL, SQL Server
-**GenAI:** Transformers, Hugging Face, LangChain, LlamaIndex, OpenAI API
-**Machine Learning:** scikit-learn, XGBoost, Statsmodels, LightGBM, MlFlow.
-**Deep Learning:** TensorFlow, PyTorch, Keras.
-**NLP:** spaCy, NLTK, TextBlob, Transformers, BERT, Gensim.
-**Cloud:** AWS, GCP.
-**Tools:** Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Excel, Google Sheets, MS Office, etc. 
-**Mathematics:** Linear Algebra, Calculus, Statistics, Probability.
+- **Programming Language:** Python, R, SQL 
+- **BI Tools:** Power BI, Tableau
+- **Databases:** MySQL, SQL Server
+- **GenAI:** Transformers, Hugging Face, LangChain, LlamaIndex, OpenAI API
+- **Machine Learning:** scikit-learn, XGBoost, Statsmodels, LightGBM, MlFlow.
+- **Deep Learning:** TensorFlow, PyTorch, Keras.
+- **NLP:** spaCy, NLTK, TextBlob, Transformers, BERT, Gensim.
+- **Cloud:** AWS, GCP.
+- **Tools:** Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Excel, Google Sheets, MS Office, etc. 
+- **Mathematics:** Linear Algebra, Calculus, Statistics, Probability.
 
 
 
