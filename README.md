@@ -29,19 +29,26 @@ Data cleaning and Preprocessing
  
 
 
-#### Technology Stack:
-##### Programming Language: Python, R, SQL 
-##### BI Tools: Power BI, Tableau, MS Excel, Google Sheet
-##### DBMS: MySQL, SQL Server
-##### Libraries: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, statsmodel, Streamlit, Gradio.
-##### Tools: Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Office, A/B Testing, etc. 
-##### AI/ML: Supervised Learning, Unsupervised Learning, Deep Learning, NLP.
-##### Mathematics: Linear Algebra, Calculus, Statistics, Probability.
-##### Cloud: AWS SageMaker, Azure Machine Learning Studio, GCP Vertex AI
+#### TECHNOLOGY STACK:
+**Programming Language:** Python, R, SQL 
+**BI Tools:** Power BI, Tableau
+**Databases:** MySQL, SQL Server
+**GenAI:** Transformers, Hugging Face, LangChain, LlamaIndex, OpenAI API
+**Machine Learning:** scikit-learn, XGBoost, Statsmodels, LightGBM, MlFlow.
+**Deep Learning:** TensorFlow, PyTorch, Keras.
+**NLP:** spaCy, NLTK, TextBlob, Transformers, BERT, Gensim.
+**Cloud:** AWS, GCP.
+**Tools:** Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Excel, Google Sheets, MS Office, etc. 
+**Mathematics:** Linear Algebra, Calculus, Statistics, Probability.
 
+
+
+## My Github Stats
 
 ![iamakashjha's Stats](https://github-readme-stats.vercel.app/api?username=iamakashjha&theme=default&show_icons=true&hide_border=true&count_private=true)
+
 ![iamakashjha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamakashjha&theme=default&hide_border=true)
+
 ![iamakashjha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashjha&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
@@ -49,4 +56,5 @@ Data cleaning and Preprocessing
 
 ## Let's connect:
 LinkedIn - https://www.linkedin.com/in/akash-jha-920480317/
+
 Email: iamakashjha@icloud.com
