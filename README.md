@@ -46,10 +46,11 @@ Data cleaning and Preprocessing
 ## My Github Stats
 
 ![iamakashjha's Stats](https://github-readme-stats.vercel.app/api?username=iamakashjha&theme=default&show_icons=true&hide_border=true&count_private=true)
+![iamakashjha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashjha&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ![iamakashjha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamakashjha&theme=default&hide_border=true)
 
-![iamakashjha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashjha&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 
 
 
