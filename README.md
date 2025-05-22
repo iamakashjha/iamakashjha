@@ -8,24 +8,17 @@ I am a Data Scientist and AI/ML Engineer, Pursuing an Advanced Certification in 
 
 
 #### SKILLS & COMPETENCIES
-Data cleaning and Preprocessing
+• Data cleaning and Preprocessing
 •	Statistical analysis
 •	Data visualization
 •	Descriptive Statistics
 •	Inferential Statistics
 •	Data Science Life Cycle
-•	Neural Networks
-•	OOPs
-•	MLOps
-•	Data Structures & Algorithms (DSA)
-•	Artificial Intelligence (AI)
-•	Machine Learning (ML)
-•	Generative AI
-•	Deep Learning
-•	Natural Language Processing (NLP)
 •	Trend and pattern identification
 •	Predictive modeling
-•	Model Deployment 
+•	Model Deployment
+•	Neural Networks
+•	OOPs
  
 
 
@@ -38,6 +31,7 @@ Data cleaning and Preprocessing
 - **Deep Learning:** TensorFlow, PyTorch, Keras.
 - **NLP:** spaCy, NLTK, TextBlob, Transformers, BERT, Gensim.
 - **Cloud:** AWS, GCP.
+- **MLOps:** Git, DVC, MLFlow, Jenkins, CI/CD, Docker, Kubernetes.
 - **Tools:** Jupyter Notebook, Google Colab, Anaconda, AWS SageMaker, RStudio, Git, GitHub, MS Excel, Google Sheets, MS Office, etc. 
 - **Mathematics:** Linear Algebra, Calculus, Statistics, Probability.
 
@@ -46,11 +40,10 @@ Data cleaning and Preprocessing
 ## My Github Stats
 
 ![iamakashjha's Stats](https://github-readme-stats.vercel.app/api?username=iamakashjha&theme=default&show_icons=true&hide_border=true&count_private=true)
-![iamakashjha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashjha&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ![iamakashjha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamakashjha&theme=default&hide_border=true)
 
-
+![iamakashjha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashjha&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
 
