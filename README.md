@@ -7,7 +7,7 @@ I am a Data Scientist and AI/ML Engineer, Pursuing an Advanced Certification in 
 
 
 
-#### SKILLS & COMPETENCIES
+#### MY KEY SKILLS
 Data cleaning and Preprocessing
 •	Statistical analysis
 •	Data visualization
@@ -22,7 +22,7 @@ Data cleaning and Preprocessing
  
 
 
-#### TECHNOLOGY STACK:
+#### MY TECHNOLOGY STACK:
 - **Programming Language:** Python, R, SQL 
 - **BI Tools:** Power BI, Tableau
 - **Databases:** MySQL, SQL Server
@@ -37,7 +37,7 @@ Data cleaning and Preprocessing
 
 
 
-## My Github Stats
+## MY GITHUB STATS
 
 ![iamakashjha's Stats](https://github-readme-stats.vercel.app/api?username=iamakashjha&theme=default&show_icons=true&hide_border=true&count_private=true)
 
@@ -46,9 +46,14 @@ Data cleaning and Preprocessing
 ![iamakashjha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashjha&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
+- 🔭 I’m currently looking for a job in Data Science.
+- 🌱 I’m currently learning Generative AI (GenAI).
+- 👯 I’m looking to collaborate on Deep Learning & GenAI Projects.
+- 💬 Ask me about Machine Learning, Deep Learning, and NLP
+- 📫 How to reach me: iamakashjha@icloud.com
 
 
-## Let's connect:
-LinkedIn - https://www.linkedin.com/in/akash-jha-920480317/
+## THANK YOU:
+[Let's connect on LinkedIn](https://www.linkedin.com/in/akash-jha-920480317/)
 
-Email: iamakashjha@icloud.com
+
