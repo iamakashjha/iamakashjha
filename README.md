@@ -3,23 +3,7 @@
 
 You are welcome to my GitHub profile. 
 
-I am a Data Scientist and AI/ML Engineer, Pursuing an Advanced Certification in Data Science and AI from IIT-Guwahati. I am skilled in Machine Learning, Deep Learning, NLP, GenAI, LLMs, MLOps, Python, R, SQL, Power BI, Tableau, and Advanced Excel. I have worked on many projects with real-time data and have built End-to-End AI/ML applications from scratch to production.
-
-
-
-#### MY KEY SKILLS
-Data cleaning and Preprocessing
-•	Statistical analysis
-•	Data visualization
-•	Descriptive Statistics
-•	Inferential Statistics
-•	Data Science Life Cycle
-•	Trend and pattern identification
-•	Predictive modeling
-•	Model Deployment
-•	Neural Networks
-•	OOPs
- 
+I am a Data Scientist and AI/ML Engineer, Pursuing an Advanced Certification in Data Science and AI from IIT-Guwahati. I am skilled in Machine Learning, Deep Learning, NLP, GenAI, LLMs, MLOps, Python, R, SQL, Power BI, Tableau, and Advanced Excel. I have worked on many projects with real-time data and have built End-to-End AI/ML applications from scratch to production.  
 
 
 #### MY TECHNOLOGY STACK:
