@@ -7,7 +7,7 @@ I am a Data Scientist and AI/ML Engineer, Pursuing an Advanced Certification in 
 
 
 #### MY TECHNOLOGY STACK:
-- **Programming Language:** Python, Java, R, SQL 
+- **Programming Language:** Python, R, SQL 
 - **BI Tools:** Power BI, Tableau
 - **Databases:** MySQL, SQL Server
 - **GenAI:** Transformers, Hugging Face, LangChain, LlamaIndex, OpenAI API
