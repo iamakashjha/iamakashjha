@@ -196,13 +196,13 @@ timeline
               : LightGBM + SMOTE Implementation
     
      3 Months : Data Science Intern
-              : Internship Studio
+              : Zidio Development
               : Build, Trained, and Integrated ML models.
               : GenAI Chatbots & RAG Systems
     
     2025-Present : Data Analyst/Scientist
                  : ASPL
-                 : Turning Data Into Decisions using Excel, SQL, Power BI.
+                 : Turning Data Into Decisions.
                  : Building, Training, and integrating ML models.
 ```
 
@@ -236,7 +236,7 @@ timeline
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div align="left">
 
 **💬 Open to discussing:**
 - AI/ML project collaborations
