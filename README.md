@@ -99,11 +99,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![AI Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ankur19961&repo=portfolio_app&theme=tokyonight)](https://ankur19961-portfolio-app-app-x8yyio.streamlit.app/)
 
 </div>
 
