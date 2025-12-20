@@ -195,7 +195,7 @@ timeline
               : Build, Trained, and Integrated ML models.
               : GenAI Chatbots & RAG Systems
     
-    2025-Present : Data Analyst/Scientist
+    2025-Present : Data Scientist
                  : ASPL
                  : Turning Data Into Decisions.
                  : Building, Training, and integrating ML models.
