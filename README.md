@@ -1,7 +1,7 @@
 # Hi there, I'm Akash! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+AI%2FML+Engineer;Applied+AI+%26+GenAI+Scientist;1%2B+Year+of+Hands-on+Industry+Experience;Building+Scalable+%26+Intelligent+AI+Systems;Data+Science+%7C+Machine+Learning+%7C+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00E5FF&center=true&vCenter=true&width=940&lines=Data+Scientist+%7C+AI%2FML+Engineer;Applied+AI+%26+GenAI+Scientist;1%2B+Year+of+Hands-on+Industry+Experience;Building+Scalable+%26+Intelligent+AI+Systems;Data+Science+%7C+Machine+Learning+%7C+Data+Analytics" alt="Typing SVG" />
 </div>
 
 <div align="center">
